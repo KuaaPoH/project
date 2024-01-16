@@ -100,7 +100,7 @@ ul.navbar-nav li.nav-item a.nav-link {
     position: absolute;
     top: -50vh;
     left: 0%;
-    transform: translate(-37.3%, 4%);
+    transform: translate(-42%, 4%);
     max-height: calc(100vh - 56px);
     overflow-y: auto;
 }
